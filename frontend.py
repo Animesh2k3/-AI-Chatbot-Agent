@@ -104,8 +104,8 @@ st.markdown("""
 
 # Constants
 MODEL_NAMES_GROQ = ["llama-3.3-70b-versatile"]
-API_URL = "https://your-app-name.onrender.com/chat"  # For Render
-IMAGE_API_URL = "https://your-app-name.onrender.com/generate-image"
+API_URL = "https://ai-agent-backend-c1zz.onrender.com/chat"  # For Render
+IMAGE_API_URL = "https://ai-agent-backend-c1zz.onrender.com/generate-image"
 
 # Preset system prompts
 PRESET_PROMPTS = {
